@@ -30,7 +30,7 @@ export const color = {
   bluelighter: '#F5FBFF',
 
   // Monochrome
-  lightest: '#FFFFFF',
+  lightest: '#F7FAFC',
   lighter: '#F7FAFC',
   light: '#EEF3F6',
   mediumlight: '#ECF4F9',
